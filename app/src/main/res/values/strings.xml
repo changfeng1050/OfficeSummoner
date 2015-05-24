@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Office召唤</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+
+    <string name="recent">最近</string>
+    <string name="pdf">PDF</string>
+    <string name="word">WORD</string>
+    <string name="excel">EXCEL</string>
+    <string name="ppt">PPT</string>
+    <string name="text">TEXT</string>
+    <string name="settings">设置</string>
+    <string name="delete_record">删除最近文件记录</string>
+    <string name="contact">联系我们</string>
+    <string name="about">关于</string>
+
+    <string name="msg_record_deleted">最近文件记录已删除</string>
+    <string name="msg_record_delete_failed">文件记录删除失败</string>
+
+    <string name="msg_no_email_apps_found">没有找到邮箱应用，你可以到应用市场下载邮箱应用</string>
+
+    <string name="mail_address">changfeng1050@hotmail.com</string>
+    <string name="mail_subject">Office召唤</string>
+    <string name="mail_text">changfeng1050, 你好！ 我正在使用Office召唤，我想要反馈…</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+</resources>
